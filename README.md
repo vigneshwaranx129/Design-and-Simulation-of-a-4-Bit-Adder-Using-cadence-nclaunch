@@ -99,8 +99,11 @@ endmodule
 
 ![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
 
+![4 bit adder c](https://github.com/user-attachments/assets/551a10d2-064c-488d-ae67-b2ede051aca6)
+
+
 ### Simulation Waveforms
-![Screenshot 2025-05-21 155512](https://github.com/user-attachments/assets/4d1457be-ef30-4b8b-a58d-aa8ac39c078c)
+![4 bit adder o](https://github.com/user-attachments/assets/2c86eab8-1a52-4175-97d5-d019c2f894f9)
 
 
 
